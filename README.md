@@ -6,4 +6,4 @@ Requirements:
 * perl
 ** File::Copy
 
-To run, simply call `photos.pl <srcdir>`
+To run, simply call `photos.pl <srcdir> <destdir>`
